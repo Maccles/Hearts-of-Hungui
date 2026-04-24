@@ -1,0 +1,17 @@
+////Creating Portraits////
+
+Portraits in this mod use a workflow of using GIMP and Paint.net.
+
+//GIMP Stage//
+
+- First upload the base image that will be used in the portrait and scale its resolution to fit the standard hoi4 resolution (156x210).
+- Lower the saturation of the image to greyscale
+- Use the smudge tool across the individual in the portrait
+- Copy the original image onto a seperate layer with the layer property of lighten to add colour to the image
+- Use the erase tool to carefully remove the background off of the portrait
+
+//Paint.net Stage//
+
+- Copy the created portrait onto "portrait_background_template" as a seperate layer
+- Use Brightness / Contrast in the Adjustments section and set Contrast to -10 on the portrait layer
+- Use the Hue / Saturation in the Aadjustments section and set Saturation to 120 on the portrait layer
