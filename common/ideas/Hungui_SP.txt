@@ -1,0 +1,21 @@
+# ============================================================
+# FILE: common/ideas/HCR_legacy_of_PlanXZ.txt
+# ============================================================
+
+ideas = {
+	country = {
+		Hungui_SP= {
+			picture = GFX_idea_TAG_my_spirit
+			allowed = {
+				original_tag = HCR
+			}
+			modifier = {
+				monthly_population = -0.5
+				war_support_factor = -15.0
+			}
+			ai_will_do = { factor = 1 }
+		}
+	}
+}
+
+# ============================================================
