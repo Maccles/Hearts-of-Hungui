@@ -4,7 +4,7 @@
 
 ideas = {
 	country = {
-		Hungui_SP= {
+		HCR_Legacy_PlanXZ = {
 			picture = GFX_idea_TAG_my_spirit
 			allowed = {
 				original_tag = HCR
@@ -13,7 +13,17 @@ ideas = {
 				monthly_population = -0.5
 				war_support_factor = -15.0
 			}
-			ai_will_do = { factor = 1 }
+		}
+
+
+		HCR_Hungui_Scapegoating = {
+			picture = GFX_idea_TAG_my_spirit
+			allowed = {
+				original_tag = HCR
+			}
+			modifier = {
+				war_support_factor = -5.0
+			}
 		}
 	}
 }
