@@ -1,0 +1,39 @@
+
+state={
+	id=135
+	name="STATE_135"
+	manpower = 2541133
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1305 7}
+		victory_points = { 1307 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		1303 1304 1305 1306 1307 1308 1309 1310 
+	}
+	local_supplies=0.0 
+}

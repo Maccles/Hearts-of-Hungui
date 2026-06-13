@@ -1,0 +1,43 @@
+
+state={
+	id=43
+	name="STATE_43"
+	manpower = 5452393
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 445 11}
+		victory_points = { 446 5}
+		victory_points = { 452 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 3
+			448 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 
+	}
+	local_supplies=0.0 
+}

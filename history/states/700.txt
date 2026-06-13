@@ -1,0 +1,41 @@
+
+state={
+	id=700
+	name="STATE_700"
+	manpower = 5721181
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=9
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6326 5}
+		victory_points = { 6328 5}
+		victory_points = { 6333 5}
+		victory_points = { 6344 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 3
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		6324 6325 6326 6327 6328 6329 6330 6331 6332 6333 6334 6335 6336 6337 6338 6339 6340 6341 6342 6343 6344 
+	}
+	local_supplies=0.0 
+}

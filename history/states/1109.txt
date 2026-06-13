@@ -1,0 +1,40 @@
+
+state={
+	id=1109
+	name="STATE_1109"
+	manpower = 1600221
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9648 1}
+		victory_points = { 9651 1}
+		victory_points = { 9653 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		9648 9649 9650 9651 9652 9653 
+	}
+	local_supplies=0.0 
+}

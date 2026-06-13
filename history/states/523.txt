@@ -1,0 +1,39 @@
+
+state={
+	id=523
+	name="STATE_523"
+	manpower = 1827014
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4829 1}
+		victory_points = { 4832 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		4827 4828 4829 4830 4831 4832 4833 4834 4835 4836 
+	}
+	local_supplies=0.0 
+}

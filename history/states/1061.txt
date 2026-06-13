@@ -1,0 +1,41 @@
+
+state={
+	id=1061
+	name="STATE_1061"
+	manpower = 909713
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=4
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 9201 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			9201 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		9201 9202 
+	}
+	local_supplies=0.0 
+}

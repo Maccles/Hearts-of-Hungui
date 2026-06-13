@@ -1,0 +1,42 @@
+
+state={
+	id=19
+	name="STATE_19"
+	manpower = 4033714
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 222 11}
+		victory_points = { 224 2}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			216 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 
+	}
+	local_supplies=0.0 
+}

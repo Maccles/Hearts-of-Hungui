@@ -1,0 +1,42 @@
+
+state={
+	id=295
+	name="STATE_295"
+	manpower = 4638095
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2615 7}
+		victory_points = { 2619 9}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			2626 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		2615 2616 2617 2618 2619 2620 2621 2622 2623 2624 2625 2626 2627 2628 2629 
+	}
+	local_supplies=0.0 
+}

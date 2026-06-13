@@ -1,0 +1,38 @@
+
+state={
+	id=304
+	name="STATE_304"
+	manpower = 3360758
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=5
+		steel=0
+		tungsten=0
+		coal=3
+	}
+
+	history={
+		victory_points = { 2704 10}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		2701 2702 2703 2704 2705 2706 2707 2708 2709 2710 
+	}
+	local_supplies=0.0 
+}

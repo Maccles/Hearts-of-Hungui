@@ -1,0 +1,39 @@
+
+state={
+	id=51
+	name="STATE_51"
+	manpower = 2784437
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=8
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 507 1}
+		victory_points = { 515 7}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		507 508 509 510 511 512 513 514 515 516 
+	}
+	local_supplies=0.0 
+}

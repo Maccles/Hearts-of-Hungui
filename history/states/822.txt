@@ -1,0 +1,38 @@
+
+state={
+	id=822
+	name="STATE_822"
+	manpower = 2473553
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=9
+		tungsten=8
+		coal=0
+	}
+
+	history={
+		victory_points = { 7324 7}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		7317 7318 7319 7320 7321 7322 7323 7324 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=83
+	name="STATE_83"
+	manpower = 4205679
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=18
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 853 2}
+		victory_points = { 862 2}
+		victory_points = { 864 10}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		853 854 855 856 857 858 859 860 861 862 863 864 865 
+	}
+	local_supplies=0.0 
+}

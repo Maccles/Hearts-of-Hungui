@@ -1,0 +1,40 @@
+
+state={
+	id=849
+	name="STATE_849"
+	manpower = 5390996
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7562 6}
+		victory_points = { 7566 6}
+		victory_points = { 7572 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		7554 7555 7556 7557 7558 7559 7560 7561 7562 7563 7564 7565 7566 7567 7568 7569 7570 7571 7572 
+	}
+	local_supplies=0.0 
+}

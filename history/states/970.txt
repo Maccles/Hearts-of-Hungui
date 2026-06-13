@@ -1,0 +1,44 @@
+
+state={
+	id=970
+	name="STATE_970"
+	manpower = 3957029
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=14
+		coal=0
+	}
+
+	history={
+		victory_points = { 8556 3}
+		victory_points = { 8559 1}
+		victory_points = { 8561 3}
+		victory_points = { 8562 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 2
+			
+			8561 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		8556 8557 8558 8559 8560 8561 8562 8563 8564 8565 8566 8567 8568 8569 
+	}
+	local_supplies=0.0 
+}

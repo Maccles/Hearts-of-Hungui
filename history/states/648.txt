@@ -1,0 +1,40 @@
+
+state={
+	id=648
+	name="STATE_648"
+	manpower = 3913643
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5827 4}
+		victory_points = { 5829 4}
+		victory_points = { 5831 4}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		5827 5828 5829 5830 5831 5832 5833 5834 5835 5836 5837 5838 5839 5840 
+	}
+	local_supplies=0.0 
+}

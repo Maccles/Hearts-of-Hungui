@@ -1,0 +1,43 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 3322973
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3334 3}
+		victory_points = { 3336 5}
+		victory_points = { 3338 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			3337 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3333 3334 3335 3336 3337 3338 3339 3340 3341 3342 3343 
+	}
+	local_supplies=0.0 
+}

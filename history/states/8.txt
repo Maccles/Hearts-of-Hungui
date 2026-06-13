@@ -1,0 +1,38 @@
+
+state={
+	id=8
+	name="STATE_8"
+	manpower = 4624967
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=10
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 119 17}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 
+	}
+	local_supplies=0.0 
+}

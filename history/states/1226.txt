@@ -1,0 +1,38 @@
+
+state={
+	id=1226
+	name="STATE_1226"
+	manpower = 85288
+	
+	state_category = small_island
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 10345 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		10345 
+	}
+	local_supplies=0.0 
+}

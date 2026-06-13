@@ -1,0 +1,39 @@
+
+state={
+	id=345
+	name="STATE_345"
+	manpower = 1605949
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2996 1}
+		victory_points = { 3000 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 2
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		2996 2997 2998 2999 3000 3001 3002 
+	}
+	local_supplies=0.0 
+}

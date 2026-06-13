@@ -1,0 +1,40 @@
+
+state={
+	id=30
+	name="STATE_30"
+	manpower = 4002541
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 305 5}
+		victory_points = { 313 2}
+		victory_points = { 316 7}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		305 306 307 308 309 310 311 312 313 314 315 316 317 
+	}
+	local_supplies=0.0 
+}

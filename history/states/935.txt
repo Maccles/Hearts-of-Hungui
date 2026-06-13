@@ -1,0 +1,42 @@
+
+state={
+	id=935
+	name="STATE_935"
+	manpower = 5799937
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8293 4}
+		victory_points = { 8298 2}
+		victory_points = { 8300 3}
+		victory_points = { 8304 4}
+		victory_points = { 8306 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 2
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		8293 8294 8295 8296 8297 8298 8299 8300 8301 8302 8303 8304 8305 8306 8307 8308 8309 8310 8311 8312 8313 8314 8315 8316 8317 8318 8319 8320 
+	}
+	local_supplies=0.0 
+}

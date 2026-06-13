@@ -1,0 +1,40 @@
+
+state={
+	id=831
+	name="STATE_831"
+	manpower = 4947780
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=5
+	}
+
+	history={
+		victory_points = { 7435 4}
+		victory_points = { 7445 4}
+		victory_points = { 7446 7}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		7431 7432 7433 7434 7435 7436 7437 7438 7439 7440 7441 7442 7443 7444 7445 7446 7447 7448 
+	}
+	local_supplies=0.0 
+}

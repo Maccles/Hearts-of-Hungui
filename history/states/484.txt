@@ -1,0 +1,39 @@
+
+state={
+	id=484
+	name="STATE_484"
+	manpower = 1511454
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=1
+		rubber=7
+		steel=7
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4492 1}
+		victory_points = { 4495 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		4490 4491 4492 4493 4494 4495 
+	}
+	local_supplies=0.0 
+}

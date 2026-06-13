@@ -1,0 +1,40 @@
+
+state={
+	id=380
+	name="STATE_380"
+	manpower = 5167774
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=3
+		steel=0
+		tungsten=0
+		coal=25
+	}
+
+	history={
+		victory_points = { 3320 1}
+		victory_points = { 3324 12}
+		victory_points = { 3329 4}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3315 3316 3317 3318 3319 3320 3321 3322 3323 3324 3325 3326 3327 3328 3329 3330 3331 3332 
+	}
+	local_supplies=0.0 
+}

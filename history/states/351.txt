@@ -1,0 +1,40 @@
+
+state={
+	id=351
+	name="STATE_351"
+	manpower = 2315258
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=4
+		tungsten=0
+		coal=2
+	}
+
+	history={
+		victory_points = { 3039 1}
+		victory_points = { 3041 1}
+		victory_points = { 3043 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3039 3040 3041 3042 3043 3044 3045 
+	}
+	local_supplies=0.0 
+}

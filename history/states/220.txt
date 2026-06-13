@@ -1,0 +1,41 @@
+
+state={
+	id=220
+	name="STATE_220"
+	manpower = 4153523
+	
+	state_category = large_city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=2
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 1989 5}
+		victory_points = { 1995 5}
+		victory_points = { 1998 1}
+		victory_points = { 2001 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 
+	}
+	local_supplies=0.0 
+}

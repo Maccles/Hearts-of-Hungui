@@ -1,0 +1,39 @@
+
+state={
+	id=627
+	name="STATE_627"
+	manpower = 2214421
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5675 3}
+		victory_points = { 5677 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		5672 5673 5674 5675 5676 5677 5678 
+	}
+	local_supplies=0.0 
+}

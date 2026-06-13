@@ -1,0 +1,42 @@
+
+state={
+	id=888
+	name="STATE_888"
+	manpower = 2558584
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=3
+		oil=1
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7891 4}
+		victory_points = { 7893 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 1
+			industrial_complex = 0
+			
+			7892 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		7891 7892 7893 7894 7895 7896 7897 7898 
+	}
+	local_supplies=0.0 
+}

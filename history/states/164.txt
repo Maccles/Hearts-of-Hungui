@@ -1,0 +1,41 @@
+
+state={
+	id=164
+	name="STATE_164"
+	manpower = 5562358
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=4
+		oil=2
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=21
+	}
+
+	history={
+		victory_points = { 1579 18}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 3
+			1573 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		1559 1560 1561 1562 1563 1564 1565 1566 1567 1568 1569 1570 1571 1572 1573 1574 1575 1576 1577 1578 1579 
+	}
+	local_supplies=0.0 
+}

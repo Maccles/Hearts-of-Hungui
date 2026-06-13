@@ -1,0 +1,43 @@
+
+state={
+	id=104
+	name="STATE_104"
+	manpower = 3061128
+	
+	state_category = city
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=1
+		steel=0
+		tungsten=0
+		coal=1
+	}
+
+	history={
+		victory_points = { 1018 2}
+		victory_points = { 1019 4}
+		victory_points = { 1025 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			1018 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		1018 1019 1020 1021 1022 1023 1024 1025 1026 
+	}
+	local_supplies=0.0 
+}

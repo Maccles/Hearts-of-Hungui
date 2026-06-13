@@ -1,0 +1,40 @@
+
+state={
+	id=416
+	name="STATE_416"
+	manpower = 5982096
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=16
+		steel=9
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3730 3}
+		victory_points = { 3735 8}
+		victory_points = { 3742 8}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 3
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3724 3725 3726 3727 3728 3729 3730 3731 3732 3733 3734 3735 3736 3737 3738 3739 3740 3741 3742 3743 3744 3745 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=223
+	name="STATE_223"
+	manpower = 5568277
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=6
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 2028 5}
+		victory_points = { 2035 14}
+		victory_points = { 2040 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 5
+			
+			arms_factory = 2
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		2027 2028 2029 2030 2031 2032 2033 2034 2035 2036 2037 2038 2039 2040 2041 2042 2043 2044 
+	}
+	local_supplies=0.0 
+}

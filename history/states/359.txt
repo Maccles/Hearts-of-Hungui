@@ -1,0 +1,39 @@
+
+state={
+	id=359
+	name="STATE_359"
+	manpower = 5929940
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=2
+		rubber=11
+		steel=10
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 3122 2}
+		victory_points = { 3126 16}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 2
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3114 3115 3116 3117 3118 3119 3120 3121 3122 3123 3124 3125 3126 3127 3128 3129 3130 3131 3132 3133 3134 3135 3136 3137 
+	}
+	local_supplies=0.0 
+}

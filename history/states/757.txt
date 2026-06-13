@@ -1,0 +1,42 @@
+
+state={
+	id=757
+	name="STATE_757"
+	manpower = 2277126
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6767 3}
+		victory_points = { 6769 2}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 0
+			dockyard = 1
+			6771 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		6766 6767 6768 6769 6770 6771 6772 
+	}
+	local_supplies=0.0 
+}

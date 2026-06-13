@@ -1,0 +1,44 @@
+
+state={
+	id=913
+	name="STATE_913"
+	manpower = 9208966
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=8
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 8089 18}
+		victory_points = { 8090 1}
+		victory_points = { 8091 9}
+		victory_points = { 8094 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+			8101 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		8076 8077 8078 8079 8080 8081 8082 8083 8084 8085 8086 8087 8088 8089 8090 8091 8092 8093 8094 8095 8096 8097 8098 8099 8100 8101 8102 8103 8104 8105 8106 8107 8108 8109 8110 8111 
+	}
+	local_supplies=0.0 
+}

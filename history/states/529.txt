@@ -1,0 +1,43 @@
+
+state={
+	id=529
+	name="STATE_529"
+	manpower = 5125846
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=2
+		oil=0
+		rubber=1
+		steel=3
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 4878 3}
+		victory_points = { 4880 3}
+		victory_points = { 4882 11}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 1
+			industrial_complex = 1
+			dockyard = 1
+			4892 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		4878 4879 4880 4881 4882 4883 4884 4885 4886 4887 4888 4889 4890 4891 4892 4893 4894 4895 
+	}
+	local_supplies=0.0 
+}

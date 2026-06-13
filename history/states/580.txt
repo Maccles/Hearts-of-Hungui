@@ -1,0 +1,38 @@
+
+state={
+	id=580
+	name="STATE_580"
+	manpower = 1666814
+	
+	state_category = rural
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=5
+		steel=2
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 5302 3}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		5301 5302 5303 5304 5305 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,42 @@
+
+state={
+	id=138
+	name="STATE_138"
+	manpower = 6601971
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=8
+	}
+
+	history={
+		victory_points = { 1340 9}
+		victory_points = { 1351 14}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 5
+			
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+			1346 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		1329 1330 1331 1332 1333 1334 1335 1336 1337 1338 1339 1340 1341 1342 1343 1344 1345 1346 1347 1348 1349 1350 1351 1352 
+	}
+	local_supplies=0.0 
+}

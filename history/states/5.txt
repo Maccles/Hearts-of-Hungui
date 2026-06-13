@@ -1,0 +1,43 @@
+
+state={
+	id=5
+	name="STATE_5"
+	manpower = 10596320
+	
+	state_category = megalopolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=13
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 49 32}
+		victory_points = { 51 2}
+		victory_points = { 52 4}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 5
+			
+			arms_factory = 2
+			industrial_complex = 4
+			
+			68 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 
+	}
+	local_supplies=0.0 
+}

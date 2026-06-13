@@ -1,0 +1,41 @@
+
+state={
+	id=720
+	name="STATE_720"
+	manpower = 3106705
+	
+	state_category = large_town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 6504 2}
+		victory_points = { 6506 2}
+		victory_points = { 6512 2}
+		victory_points = { 6513 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			arms_factory = 0
+			industrial_complex = 1
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		6503 6504 6505 6506 6507 6508 6509 6510 6511 6512 6513 6514 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=368
+	name="STATE_368"
+	manpower = 1424405
+	
+	state_category = town
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=4
+	}
+
+	history={
+		victory_points = { 3189 2}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			arms_factory = 1
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		3189 3190 3191 3192 
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,45 @@
+
+state={
+	id=817
+	name="STATE_817"
+	manpower = 5394870
+	
+	state_category = metropolis
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		victory_points = { 7266 5}
+		victory_points = { 7279 5}
+		victory_points = { 7280 4}
+		victory_points = { 7282 1}
+		victory_points = { 7284 1}
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 4
+			
+			arms_factory = 0
+			industrial_complex = 1
+			dockyard = 1
+			7283 = {
+				naval_base = 1
+			}
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		7266 7267 7268 7269 7270 7271 7272 7273 7274 7275 7276 7277 7278 7279 7280 7281 7282 7283 7284 7285 
+	}
+	local_supplies=0.0 
+}

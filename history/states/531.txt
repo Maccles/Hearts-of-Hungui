@@ -1,0 +1,37 @@
+
+state={
+	id=531
+	name="STATE_531"
+	manpower = 782966
+	
+	state_category = pastoral
+	#impassable = yes
+	resources={
+		aluminium=0
+		chromium=0
+		oil=0
+		rubber=0
+		steel=0
+		tungsten=0
+		coal=0
+	}
+
+	history={
+		
+		owner = OIN
+		buildings = {
+			infrastructure = 1
+			
+			arms_factory = 0
+			industrial_complex = 0
+			
+			
+		}
+		add_core_of = OIN
+	}
+
+	provinces={
+		4919 4920 4921 4922 4923 4924 4925 
+	}
+	local_supplies=0.0 
+}
