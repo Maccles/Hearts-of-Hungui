@@ -1,0 +1,24 @@
+state = {
+	id = 1347
+	name = "STATE_1347"
+	manpower = 120442
+	
+	state_category = city
+	
+	history = {
+		owner = HRF
+		add_core_of = HRF
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 3294 4 }
+		victory_points = { 3295 3 }
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		3294 3287 3286 3295 3111 14708
+	}
+}

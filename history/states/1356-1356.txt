@@ -1,0 +1,23 @@
+state = {
+	id = 1356
+	name = "STATE_1356"
+	manpower = 67064
+	
+	state_category = town
+	
+	history = {
+		owner = PTR
+		add_core_of = PTR
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 5055 1 }
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		5055 14727 14728
+	}
+}

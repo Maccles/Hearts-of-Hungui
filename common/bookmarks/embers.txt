@@ -1,0 +1,21 @@
+bookmarks = {
+	bookmark = {
+		name = "EMBERS_BOOKMARK"
+		desc = "EMBERS_BOOKMARK_DESC"
+		date = 2026.1.1
+		picture = "GFX_select_date_1936"
+		default = yes
+		default_country = "BAI"
+
+		"BAI" = {
+			history = "BAI_embers_DESC"
+			ideology = neutrality
+			ideas = { }
+		}
+		"HRF" = {
+			history = "HRF_embers_DESC"
+			ideology = neutrality
+			ideas = { }
+		}
+	}
+}

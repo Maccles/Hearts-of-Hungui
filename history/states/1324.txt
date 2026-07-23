@@ -4,7 +4,7 @@ state={
 	name="STATE_1324"
 	manpower = 31369
 	
-	state_category = pastoral
+	state_category = megalopolis
 	#impassable = yes
 	resources={
 		aluminium=0
@@ -17,9 +17,10 @@ state={
 	}
 
 	history={
-		victory_points = { 10445 1}
+		owner = DEI
+		add_core_of = DEI
+		victory_points = { 10445 50 }
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 2
 			air_base = 1
@@ -31,8 +32,7 @@ state={
 			}
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		10445 

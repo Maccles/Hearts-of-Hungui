@@ -20,7 +20,6 @@ state={
 		victory_points = { 9175 6}
 		victory_points = { 9177 1}
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 3
 			
@@ -32,8 +31,7 @@ state={
 			}
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		9174 9175 9176 9177 9178 9179 9180 9181 

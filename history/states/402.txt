@@ -17,10 +17,11 @@ state={
 	}
 
 	history={
+		owner = PFS
+		add_core_of = PFS
 		victory_points = { 3618 1}
 		victory_points = { 3622 1}
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 2
 			
@@ -29,8 +30,7 @@ state={
 			
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		3618 3619 3620 3621 3622 3623 

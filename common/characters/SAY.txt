@@ -1,0 +1,880 @@
+characters = {
+	SAY_Ngawa_Xian={
+		name="Ngawa Xian"
+
+		
+		country_leader={
+			ideology=moderatism
+			traits = { cabinet_crisis  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAY_Dawan_Xian={
+		name="Dawan Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Dawan_Xian
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	SAY_Yuntso_Lian={
+		name="Yuntso Lian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Yuntso_Lian
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SAY_Mingdu_Shui={
+		name="Mingdu Shui"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Mingdu_Shui
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	SAY_Ngawang_Xian={
+		name="Ngawang Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Ngawang_Xian
+				traits = {	humble 	}
+		}
+
+	}
+	SAY_Sonam_Xian={
+		name="Sonam Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Sonam_Xian
+				traits = {	socialite_connections 	}
+		}
+
+	}
+	SAY_Gyatso_Huan={
+		name="Gyatso Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Gyatso_Huan
+				traits = {	headstrong 	}
+		}
+
+	}
+	SAY_Chen_Huan={
+		name="Chen Huan"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Chen_Huan
+				traits = {	army_chief_entrenchment_2 	}
+		}
+
+	}
+	SAY_Chenzing_Cheng={
+		name="Chenzing Cheng"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Chenzing_Cheng
+				traits = {	army_chief_drill_2 	}
+		}
+
+	}
+	SAY_Reng_Lian={
+		name="Reng Lian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Reng_Lian
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	SAY_Sonam_Huan={
+		name="Sonam Huan"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Sonam_Huan
+				traits = {	army_chief_maneuver_1 	}
+		}
+
+	}
+	SAY_Wangdu_Yuang={
+		name="Wangdu Yuang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Wangdu_Yuang
+				traits = {	navy_chief_decisive_battle_2 	}
+		}
+
+	}
+	SAY_Song_Yuang={
+		name="Song Yuang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Song_Yuang
+				traits = {	navy_chief_old_guard_2 	}
+		}
+
+	}
+	SAY_Ngawang_Lian={
+		name="Ngawang Lian"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Ngawang_Lian
+				traits = {	air_chief_safety_2 	}
+		}
+
+	}
+	SAY_Yang_Huan={
+		name="Yang Huan"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Yang_Huan
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SAY_Dawa_Yuang={
+		name="Dawa Yuang"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Dawa_Yuang
+				traits = {	navy_naval_air_defense_2 	}
+		}
+
+	}
+	SAY_Nima_Huan={
+		name="Nima Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Nima_Huan
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	SAY_Jiang_Lian={
+		name="Jiang Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Jiang_Lian
+				traits = {	navy_carrier_1 	}
+		}
+
+	}
+	SAY_Renzin_Huan={
+		name="Renzin Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Renzin_Huan
+				traits = {	army_commando_1 	}
+		}
+
+	}
+	SAY_Dawa_Cheng={
+		name="Dawa Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Dawa_Cheng
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	SAY_Renzin_Cheng={
+		name="Renzin Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Renzin_Cheng
+				traits = {	army_regrouping_2 	}
+		}
+
+	}
+	SAY_Lobsang_Huan={
+		name="Lobsang Huan"
+
+		
+		country_leader={
+			ideology=nazism
+			traits = { collaborator_king  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAY_Phubten_Cheng={
+		name="Phubten Cheng"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Phubten_Cheng
+				traits = {	autokrator 	}
+		}
+
+	}
+	SAY_Lobsang_Xian={
+		name="Lobsang Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Lobsang_Xian
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	SAY_Tenzing_Huan={
+		name="Tenzing Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Tenzing_Huan
+				traits = {	polemarch 	}
+		}
+
+	}
+	SAY_Yuntso_Cheng={
+		name="Yuntso Cheng"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Yuntso_Cheng
+				traits = {	autokrator 	}
+		}
+
+	}
+	SAY_Wang_Yuang={
+		name="Wang Yuang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Wang_Yuang
+				traits = {	celebrity_junta_leader 	}
+		}
+
+	}
+	SAY_Phun_Yuang={
+		name="Phun Yuang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Phun_Yuang
+				traits = {	basileus 	}
+		}
+
+	}
+	SAY_Qiang_Cheng={
+		name="Qiang Cheng"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Qiang_Cheng
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SAY_Yuntso_Yuang={
+		name="Yuntso Yuang"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Yuntso_Yuang
+				traits = {	army_chief_defensive_2 	}
+		}
+
+	}
+	SAY_Phubten_Lian={
+		name="Phubten Lian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Phubten_Lian
+				traits = {	army_chief_drill_1 	}
+		}
+
+	}
+	SAY_Yangdu_Xian={
+		name="Yangdu Xian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Yangdu_Xian
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	SAY_Phubten_Xian={
+		name="Phubten Xian"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Phubten_Xian
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SAY_Karma_Shui={
+		name="Karma Shui"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Karma_Shui
+				traits = {	navy_chief_naval_aviation_2 	}
+		}
+
+	}
+	SAY_Fang_Cheng={
+		name="Fang Cheng"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Fang_Cheng
+				traits = {	air_chief_old_guard_1 	}
+		}
+
+	}
+	SAY_Song_Xian={
+		name="Song Xian"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Song_Xian
+				traits = {	air_chief_night_operations_2 	}
+		}
+
+	}
+	SAY_Thun_Shui={
+		name="Thun Shui"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Thun_Shui
+				traits = {	navy_screen_2 	}
+		}
+
+	}
+	SAY_Qiang_Huan={
+		name="Qiang Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Qiang_Huan
+				traits = {	air_airborne_2 	}
+		}
+
+	}
+	SAY_Lobsangdu_Huan={
+		name="Lobsangdu Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Lobsangdu_Huan
+				traits = {	air_airborne_1 	}
+		}
+
+	}
+	SAY_Dawan_Shui={
+		name="Dawan Shui"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Dawan_Shui
+				traits = {	navy_capital_ship_2 	}
+		}
+
+	}
+	SAY_Song_Huan={
+		name="Song Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Song_Huan
+				traits = {	navy_anti_submarine_1 	}
+		}
+
+	}
+	SAY_Gyatso_Lian={
+		name="Gyatso Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Gyatso_Lian
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	SAY_Ming_Shui={
+		name="Ming Shui"
+
+		
+		country_leader={
+			ideology=stalinism
+			traits = { reluctant_stalinist  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAY_Chen_Xian={
+		name="Chen Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Chen_Xian
+				traits = {	polemarch 	}
+		}
+
+	}
+	SAY_Jiang_Xian={
+		name="Jiang Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Jiang_Xian
+				traits = {	political_dancer 	}
+		}
+
+	}
+	SAY_Jian_Huan={
+		name="Jian Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Jian_Huan
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	SAY_Chenzing_Huan={
+		name="Chenzing Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Chenzing_Huan
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	SAY_Long_Shui={
+		name="Long Shui"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Long_Shui
+				traits = {	mastermind_code_cracker 	}
+		}
+
+	}
+	SAY_Dawan_Yuang={
+		name="Dawan Yuang"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Dawan_Yuang
+				traits = {	reluctant_stalinist 	}
+		}
+
+	}
+	SAY_Jian_Xian={
+		name="Jian Xian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Jian_Xian
+				traits = {	army_chief_reform_1 	}
+		}
+
+	}
+	SAY_Yangdu_Lian={
+		name="Yangdu Lian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Yangdu_Lian
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	SAY_Jigme_Shui={
+		name="Jigme Shui"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Jigme_Shui
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SAY_Chenzin_Shui={
+		name="Chenzin Shui"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Chenzin_Shui
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	SAY_Gyatsok_Yuang={
+		name="Gyatsok Yuang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Gyatsok_Yuang
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SAY_Jiang_Yuang={
+		name="Jiang Yuang"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Jiang_Yuang
+				traits = {	navy_chief_decisive_battle_1 	}
+		}
+
+	}
+	SAY_Ming_Lian={
+		name="Ming Lian"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Ming_Lian
+				traits = {	air_chief_all_weather_1 	}
+		}
+
+	}
+	SAY_Mingdu_Yuang={
+		name="Mingdu Yuang"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Mingdu_Yuang
+				traits = {	air_chief_safety_1 	}
+		}
+
+	}
+	SAY_Jigme_Huan={
+		name="Jigme Huan"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Jigme_Huan
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	SAY_Ngawang_Yuang={
+		name="Ngawang Yuang"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Ngawang_Yuang
+				traits = {	navy_fleet_logistics_1 	}
+		}
+
+	}
+	SAY_Wang_Lian={
+		name="Wang Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Wang_Lian
+				traits = {	army_logistics_1 	}
+		}
+
+	}
+	SAY_Long_Cheng={
+		name="Long Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Long_Cheng
+				traits = {	air_tactical_bombing_2 	}
+		}
+
+	}
+	SAY_Yang_Xian={
+		name="Yang Xian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Yang_Xian
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SAY_Lobsang_Lian={
+		name="Lobsang Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Lobsang_Lian
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SAY_Wang_Cheng={
+		name="Wang Cheng"
+
+		
+		country_leader={
+			ideology=conservatism
+			traits = { the_young_magnate  }
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+	}
+	SAY_Chen_Cheng={
+		name="Chen Cheng"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Chen_Cheng
+				traits = {	infirm 	}
+		}
+
+	}
+	SAY_Mingdu_Xian={
+		name="Mingdu Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Mingdu_Xian
+				traits = {	liberal_democratic_paragon 	}
+		}
+
+	}
+	SAY_Ngawa_Huan={
+		name="Ngawa Huan"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Ngawa_Huan
+				traits = {	conservative_grandee 	}
+		}
+
+	}
+	SAY_Long_Xian={
+		name="Long Xian"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Long_Xian
+				traits = {	infirm 	}
+		}
+
+	}
+	SAY_Wangdu_Shui={
+		name="Wangdu Shui"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Wangdu_Shui
+				traits = {	staunch_constitutionalist 	}
+		}
+
+	}
+	SAY_Thubtenzin_Shui={
+		name="Thubtenzin Shui"
+
+		advisor={
+			slot = political_advisor
+			idea_token = SAY_Thubtenzin_Shui
+				traits = {	the_young_magnate 	}
+		}
+
+	}
+	SAY_Nima_Lian={
+		name="Nima Lian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Nima_Lian
+				traits = {	army_chief_offensive_2 	}
+		}
+
+	}
+	SAY_Dawangdu_Huan={
+		name="Dawangdu Huan"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Dawangdu_Huan
+				traits = {	army_chief_organizational_1 	}
+		}
+
+	}
+	SAY_Reng_Xian={
+		name="Reng Xian"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Reng_Xian
+				traits = {	army_chief_morale_1 	}
+		}
+
+	}
+	SAY_Song_Cheng={
+		name="Song Cheng"
+
+		advisor={
+			slot = army_chief
+			idea_token = SAY_Song_Cheng
+				traits = {	army_chief_offensive_1 	}
+		}
+
+	}
+	SAY_Yangdu_Huan={
+		name="Yangdu Huan"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Yangdu_Huan
+				traits = {	navy_chief_commerce_raiding_1 	}
+		}
+
+	}
+	SAY_Sonam_Shui={
+		name="Sonam Shui"
+
+		advisor={
+			slot = navy_chief
+			idea_token = SAY_Sonam_Shui
+				traits = {	navy_chief_reform_2 	}
+		}
+
+	}
+	SAY_Wang_Huan={
+		name="Wang Huan"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Wang_Huan
+				traits = {	air_chief_reform_2 	}
+		}
+
+	}
+	SAY_Wang_Shui={
+		name="Wang Shui"
+
+		advisor={
+			slot = air_chief
+			idea_token = SAY_Wang_Shui
+				traits = {	air_chief_ground_support_1 	}
+		}
+
+	}
+	SAY_Lobsang_Shui={
+		name="Lobsang Shui"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Lobsang_Shui
+				traits = {	navy_screen_1 	}
+		}
+
+	}
+	SAY_Jigme_Cheng={
+		name="Jigme Cheng"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Jigme_Cheng
+				traits = {	air_pilot_training_2 	}
+		}
+
+	}
+	SAY_Wangdu_Lian={
+		name="Wangdu Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Wangdu_Lian
+				traits = {	army_concealment_1 	}
+		}
+
+	}
+	SAY_Ming_Xian={
+		name="Ming Xian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Ming_Xian
+				traits = {	army_regrouping_1 	}
+		}
+
+	}
+	SAY_Karma_Lian={
+		name="Karma Lian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Karma_Lian
+				traits = {	air_close_air_support_2 	}
+		}
+
+	}
+	SAY_Jigme_Xian={
+		name="Jigme Xian"
+
+		advisor={
+			slot = high_command
+			idea_token = SAY_Jigme_Xian
+				traits = {	army_CombinedArms_1 	}
+		}
+
+	}
+	SAY_Jian_Lian={
+		name="Jian Lian"
+
+		advisor={
+			slot = theorist
+			idea_token = SAY_Jian_Lian
+				traits = {	military_theorist 	}
+		}
+
+	}
+	SAY_Thun_Xian={
+		name="Thun Xian"
+
+		advisor={
+			slot = theorist
+			idea_token = SAY_Thun_Xian
+				traits = {	naval_theorist 	}
+		}
+
+	}
+	SAY_Jiang_Cheng={
+		name="Jiang Cheng"
+
+		advisor={
+			slot = theorist
+			idea_token = SAY_Jiang_Cheng
+				traits = {	air_warfare_theorist 	}
+		}
+
+	}
+}

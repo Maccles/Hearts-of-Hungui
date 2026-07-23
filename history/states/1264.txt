@@ -17,11 +17,12 @@ state={
 	}
 
 	history={
+		owner = BAI
+		add_core_of = BAI
 		victory_points = { 10385 1}
 		
-		owner = OIN
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 			
 			arms_factory = 0
 			industrial_complex = 0
@@ -31,11 +32,10 @@ state={
 			}
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
-		10385 
+		10385 14716 14718 14717
 	}
 	local_supplies=0.0 
 }

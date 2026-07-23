@@ -17,10 +17,12 @@ state={
 	}
 
 	history={
+		owner = PFS
+		add_core_of = PFS
+		add_core_of = PTR
 		victory_points = { 10229 1}
 		victory_points = { 10230 1}
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 2
 			air_base = 2
@@ -32,8 +34,7 @@ state={
 			}
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		10229 10230 10231 

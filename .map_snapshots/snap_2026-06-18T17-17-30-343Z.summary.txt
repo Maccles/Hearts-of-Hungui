@@ -1,0 +1,7 @@
+Map Snapshot: snap_2026-06-18T17-17-30-343Z
+Created: 2026-06-18T17:17:30.888Z
+Provinces: 14708
+States: 1345
+Strategic Regions: 266
+Map Size: 4096x2048
+File: c:\Users\maccl\Documents\Paradox Interactive\Hearts of Iron IV\mod\HoH\.map_snapshots\snap_2026-06-18T17-17-30-343Z.json

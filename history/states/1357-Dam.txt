@@ -1,0 +1,22 @@
+state = {
+	id = 1357
+	name = "STATE_1357"
+	manpower = 20087
+	
+	state_category = metropolis
+	
+	history = {
+		owner = PTR
+		add_core_of = PTR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		14738 14740 14743 14741 14739
+	}
+}

@@ -1,0 +1,23 @@
+state = {
+	id = 1364
+	name = "STATE_1364"
+	manpower = 1
+	
+	state_category = rural
+	
+	history = {
+		owner = PTR
+		add_core_of = PTR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = { 5228 3 }
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		6768 5228 5240 5230 5237 5238
+	}
+}

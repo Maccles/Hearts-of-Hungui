@@ -19,7 +19,6 @@ state={
 	history={
 		victory_points = { 6162 4}
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 3
 			air_base = 1
@@ -28,8 +27,7 @@ state={
 			
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		6162 6163 6164 6165 6166 

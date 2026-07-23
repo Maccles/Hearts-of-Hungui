@@ -6,21 +6,15 @@ state={
 	
 	state_category = city
 	#impassable = yes
-	resources={
-		aluminium=0
-		chromium=0
-		oil=0
-		rubber=1
-		steel=0
-		tungsten=0
-		coal=0
+	resources = {
+		rubber = 1
+		tungsten = 1
 	}
 
 	history={
 		victory_points = { 6050 7}
 		victory_points = { 6054 5}
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 3
 			air_base = 1
@@ -32,11 +26,10 @@ state={
 			}
 			
 		}
-		add_core_of = OIN
-	}
+}
 
-	provinces={
-		6050 6051 6052 6053 6054 6055 6056 6057 6058 6059 6060 6061 6062 
+	provinces = {
+		6050 6052 6054 6055 6056 6060 6061
 	}
 	local_supplies=0.0 
 }

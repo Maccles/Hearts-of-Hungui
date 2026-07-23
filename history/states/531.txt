@@ -17,8 +17,9 @@ state={
 	}
 
 	history={
+		owner = PFS
+		add_core_of = PFS
 		
-		owner = OIN
 		buildings = {
 			infrastructure = 1
 			
@@ -27,8 +28,7 @@ state={
 			
 			
 		}
-		add_core_of = OIN
-	}
+}
 
 	provinces={
 		4919 4920 4921 4922 4923 4924 4925 

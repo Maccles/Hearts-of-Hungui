@@ -1,0 +1,14 @@
+# City Lights Data
+# Province ID, Intensity (0-255)
+# This data represents the alpha channel of colormap_rgb_cityemissivemask_a.dds
+# Higher intensity = brighter city lights at night
+
+8400,255 # Province 8400
+10363,40 # Province 10363
+10433,200 # Province 10433
+10449,200 # Province 10449
+14711,200 # Province 14711
+14712,40 # Province 14712
+14713,255 # Province 14713
+14715,40 # Province 14715
+14716,200 # Province 14716

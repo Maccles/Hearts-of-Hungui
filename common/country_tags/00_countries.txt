@@ -1,0 +1,7 @@
+# Country tags
+BAI = "countries/BeipInsurgentArmy.txt"
+HRF = "countries/HunguiFederation.txt"
+PLG = "countries/PteraRepublic.txt"
+PTR = "countries/Pteranodon Republic.txt"
+DEI = "countries/Deino Dynasty.txt"
+PFS = "countries/Pteranodon State.txt"

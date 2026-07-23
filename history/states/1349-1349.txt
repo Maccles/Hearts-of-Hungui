@@ -1,0 +1,22 @@
+state = {
+	id = 1349
+	name = "STATE_1349"
+	manpower = 2025
+	
+	state_category = rural
+	
+	history = {
+		owner = BAI
+		add_core_of = BAI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		14715
+	}
+}
