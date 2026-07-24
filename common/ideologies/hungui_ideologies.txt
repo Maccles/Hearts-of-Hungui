@@ -1,0 +1,110 @@
+ideologies = {
+
+# NEW CONTENT
+
+	melonist = {
+	
+		types = {
+			radical_melonism = { 
+			}
+
+			beipicentrism = { 
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MELONIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
+		}
+		
+		color = { 255 204 38 } # RGB ideology colour, used in the political pie chart or next to the chart. Can be overwritten in a subideology.
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes # Can create a collaboration government
+			can_declare_war_on_same_ideology = no # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = no # Can guarantee nations with different ideologies. Not required
+		}
+
+                can_host_government_in_exile = no #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.3 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension
+		
+		modifiers = { # More rules for the ideology. Every country [[Modifiers|modifier]] can apply.
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		can_be_boosted = yes # Can you boost this ideologies popularity in another country (yes/no)
+		can_collaborate = yes # Can create collaboration governments
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_neutral = yes
+	}
+
+	abyssist = {
+	
+		types = {
+			Beipi_Abyssism = { 
+			}
+
+			Ptera_Abyssism = { 
+			}
+
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MELONIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
+		}
+		
+		color = { 91 128 193 } # RGB ideology colour, used in the political pie chart or next to the chart. Can be overwritten in a subideology.
+		
+		rules = { # Rules for the ideology.  (yes/no)
+                        can_create_collaboration_government = yes # Can create a collaboration government
+			can_declare_war_on_same_ideology = no # Declare war on same ideology. Not required
+			can_force_government = yes # Can change ideology in peace deal. Required
+			can_send_volunteers = yes # Can send volunteers. Required
+			can_puppet = yes # Can puppet a nation at peace deal. Required
+			can_lower_tension = no # Lowers tension at peace deal. Not required
+			can_only_justify_war_on_threat_country = no # Can only justify on a nation that has generated world tension/threat. Not required
+			can_guarantee_other_ideologies = no # Can guarantee nations with different ideologies. Not required
+		}
+
+                can_host_government_in_exile = yes #Can host a government in exile
+		
+		war_impact_on_world_tension = 0.2 # Goes from -1 to 1. Increases or decreases the world tension created by this nation
+		faction_impact_on_world_tension = 0.3 # Goes from -1 to 1. Increases or decreases a faction of this ideologies impact on tension
+		
+		modifiers = { # More rules for the ideology. Every country [[Modifiers|modifier]] can apply.
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		can_be_boosted = yes # Can you boost this ideologies popularity in another country (yes/no)
+		can_collaborate = yes # Can create collaboration governments
+		
+		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_neutral = yes
+	}
+}

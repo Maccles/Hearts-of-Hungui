@@ -7,7 +7,7 @@ bookmarks = {
 		default = yes
 		
 		
-		HCR={
+		HRF={
 			history = "generic_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
