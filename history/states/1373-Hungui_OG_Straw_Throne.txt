@@ -1,0 +1,22 @@
+state = {
+	id = 1373
+	name = "STATE_1373"
+	manpower = 11452
+	
+	state_category = large_city
+	
+	history = {
+		owner = DEI
+		add_core_of = DEI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		10159 14787 14774
+	}
+}

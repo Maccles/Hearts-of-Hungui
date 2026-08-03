@@ -9,7 +9,10 @@ state = {
 		owner = BAI
 		add_core_of = BAI
 		buildings = {
-			infrastructure = 1
+			infrastructure = 1
+			1848 = {
+				naval_base = 1
+			}
 		}
 	}
 	

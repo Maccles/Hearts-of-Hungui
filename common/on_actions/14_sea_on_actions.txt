@@ -1,0 +1,2 @@
+# Intentionally empty for the Hungui total-conversion map.
+# Vanilla SEA on-actions target vanilla states, provinces, owners, and characters.

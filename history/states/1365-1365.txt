@@ -9,7 +9,10 @@ state = {
 		owner = DEI
 		add_core_of = DEI
 		buildings = {
-			infrastructure = 1
+			infrastructure = 1
+			6078 = {
+				naval_base = 1
+			}
 		}
 		victory_points = { 6068 3 }
 	}

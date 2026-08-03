@@ -1,0 +1,461 @@
+[08:03:06][no_game_date][systemsettings.cpp:172]: OS: Windows 10 x86_64
+[08:03:06][no_game_date][systemsettings.cpp:173]: OS Lang: en
+[08:03:06][no_game_date][systemsettings.cpp:174]: CPU Model: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+[08:03:06][no_game_date][systemsettings.cpp:175]: Number of cores: 6 (12)
+[08:03:06][no_game_date][systemsettings.cpp:177]: Estimated CPU speed: 0MHz
+[08:03:06][no_game_date][systemsettings.cpp:178]: System memory: 32616MB
+[08:03:06][no_game_date][gfx_dx11.cpp:3675]: GetGraphicsSettings for Adapter: 0
+[08:03:06][no_game_date][gfx_dx11.cpp:3708]: Found Adapter: NVIDIA GeForce RTX 3060 Ti
+[08:03:06][no_game_date][gfx_dx11.cpp:3731]: Using Adapter [0] to check for multi-sampling support:
+[08:03:07][no_game_date][gfx_dx11.cpp:3769]: Found available multisampling mode: 2 at Quality: 0
+[08:03:07][no_game_date][gfx_dx11.cpp:3769]: Found available multisampling mode: 4 at Quality: 0
+[08:03:07][no_game_date][gfx_dx11.cpp:3769]: Found available multisampling mode: 8 at Quality: 0
+[08:03:07][no_game_date][graphicssettings.cpp:172]: 	2 samples supported.
+[08:03:07][no_game_date][graphicssettings.cpp:172]: 	4 samples supported.
+[08:03:07][no_game_date][graphicssettings.cpp:172]: 	8 samples supported.
+[08:03:07][no_game_date][graphicssettings.cpp:210]: Video adapter: NVIDIA GeForce RTX 3060 Ti
+[08:03:07][no_game_date][graphicssettings.cpp:211]: Video driver: DirectX 11
+[08:03:07][no_game_date][graphicssettings.cpp:212]: Video driver version: 0.0.0.0
+[08:03:07][no_game_date][graphicssettings.cpp:213]: Video memory: 8024
+[08:03:07][no_game_date][graphicssettings.cpp:214]: Support for Anisotropic filtering found.
+[08:03:07][no_game_date][graphicssettings.cpp:218]: 	Max Anisotropic filtering supported: 16
+[08:03:07][no_game_date][graphicssettings.cpp:219]: 	Anisotropic filtering set to: 4
+[08:03:11][no_game_date][main.cpp:2119]: Creating application...
+[08:03:11][no_game_date][pdx_speech_stt_winsapi.cpp:42]: PdxSpeechToTextWinSAPI::Initialize: microphone was not found![08:03:11][no_game_date][gameapplication.cpp:1248]: Initializing application...
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_menu_over" (28 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_default" (34 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_close" (33 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "menu_close_window" (172 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "menu_open_window" (59 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_main" (34 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_back" (33 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_submenu" (63 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_chat" (165 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_ok" (55 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_checkbox" (34 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_scroll" (40 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "click_close_window" (172 KB). Total audio cache: 0 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "event_popup_01" (360 KB). Total audio cache: 1 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "peace_summary_message_01" (458 KB). Total audio cache: 1 MB
+[08:03:11][no_game_date][pdx_audiosound_sdl.cpp:164]: Audio cached "move_order_army_04" (472 KB). Total audio cache: 2 MB
+[08:03:11][no_game_date][gameapplication.cpp:1254]: Done initializing application
+[08:03:11][no_game_date][gameapplication.cpp:1257]: Loading cursor...
+[08:03:11][no_game_date][graphicssettings.cpp:747]: Using multisampling: 4
+[08:03:11][no_game_date][graphics.cpp:972]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1920x1080
+	Renderer=DirectX 11
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 72
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 75
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 480 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 576 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 576 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 576 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 576 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 720 576 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 75
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 56
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 72
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 70
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 75
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1152 864 75
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1152 864 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1152 864 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1152 864 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1152 864 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1176 664 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 800 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 960 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 960 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 960 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 960 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 960 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 75
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 1024 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 900 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 900 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 900 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 900 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 900 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1440 1080 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 900 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1600 1024 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1680 1050 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1680 1050 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1680 1050 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1680 1050 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1680 1050 143
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1920 1080 50
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1920 1080 60
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1920 1080 59
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1920 1080 119
+[08:03:12][no_game_date][graphicssettings.cpp:715]: Usable res: 1920 1080 143
+[08:03:12][no_game_date][graphics.cpp:1007]: Done creating device.
+[08:04:00][no_game_date][gameapplication.cpp:1503]: Version: Operation Postern v1.19.2.0.a729 (ef77) build time: Jun 29 2026 14:16:56
+[08:04:00][no_game_date][gameapplication.cpp:1508]: Active DLC Count: 35
+[08:04:00][no_game_date][gameapplication.cpp:1509]: Active Mod Count: 1
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Allied Armor Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Allied Radio Music Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Allied Speeches Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Anniversary Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Arms Against Tyranny
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Axis Armor Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Battle for the Bosporus
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: British Tanks Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: By Blood Alone
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Eastern Front Planes Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Expansion Pass 1: Ride of the Valkyries
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Expansion Pass 1: Supporter Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: French Tanks Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: German March Order Music Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: German Tanks Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Gotterdammerung
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Graveyard of Empires
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Heavy Cruisers Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Historical German Portraits
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: La Resistance
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: No Compromise, No Surrender
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: No Step Back
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Peace For Our Time
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Poland: United and Ready
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Prototype Vehicles
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Radio Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Rocket Launcher Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Sabaton Soundtrack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Sabaton Soundtrack Vol.2
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Songs of the Eastern Front
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Soviet Tanks Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Thunder at Our Gates
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Trial of Allegiance
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: US Tanks Unit Pack
+[08:04:00][no_game_date][gameapplication.cpp:1513]: Active DLC: Warships of the Pacific
+[08:04:00][no_game_date][gameapplication.cpp:1518]: Active Mod: The Road to 56
+[08:04:14][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "amb_neutral_wind_01" (5229 KB). Total audio cache: 7 MB
+[08:04:14][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 15 MB
+[08:04:14][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 21 MB
+[08:04:14][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_01" (2555 KB). Total audio cache: 23 MB
+[08:04:14][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_heavy_02" (11785 KB). Total audio cache: 35 MB
+[08:04:39][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:04:39][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_heavy_02" (11785 KB). Total audio cache: 23 MB
+[08:04:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_03" (8021 KB). Total audio cache: 15 MB
+[08:04:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 9 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "select_country" (25 KB). Total audio cache: 9 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_light_04" (5214 KB). Total audio cache: 14 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_03" (4556 KB). Total audio cache: 19 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_light_01" (6029 KB). Total audio cache: 25 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_01" (10335 KB). Total audio cache: 35 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_02" (12919 KB). Total audio cache: 47 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_05" (5526 KB). Total audio cache: 53 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_light_03" (5697 KB). Total audio cache: 58 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 66 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_04" (6862 KB). Total audio cache: 73 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_01" (6029 KB). Total audio cache: 79 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_heavy_03" (6693 KB). Total audio cache: 85 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 91 MB
+[08:04:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_02" (7253 KB). Total audio cache: 99 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_light_02" (12919 KB). Total audio cache: 86 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_03" (8021 KB). Total audio cache: 78 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_heavy_03" (6693 KB). Total audio cache: 72 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_01" (2555 KB). Total audio cache: 69 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 63 MB
+[08:04:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_02" (7253 KB). Total audio cache: 56 MB
+[08:05:00][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_01" (2555 KB). Total audio cache: 58 MB
+[08:05:00][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_02" (12919 KB). Total audio cache: 71 MB
+[08:05:00][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 79 MB
+[08:05:00][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_heavy_03" (6693 KB). Total audio cache: 85 MB
+[08:05:01][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 91 MB
+[08:05:18][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 85 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_03" (8021 KB). Total audio cache: 78 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_light_04" (6862 KB). Total audio cache: 71 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_light_02" (12919 KB). Total audio cache: 58 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_light_01" (10335 KB). Total audio cache: 48 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_01" (10335 KB). Total audio cache: 58 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_04" (6862 KB). Total audio cache: 65 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_02" (12919 KB). Total audio cache: 78 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 85 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 91 MB
+[08:05:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_02" (5630 KB). Total audio cache: 97 MB
+[08:05:23][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_sandstorm_03" (4882 KB). Total audio cache: 102 MB
+[08:05:23][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_sandstorm_04" (5122 KB). Total audio cache: 107 MB
+[08:05:27][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "select_country" (25 KB). Total audio cache: 107 MB
+[08:05:36][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_04" (5137 KB). Total audio cache: 112 MB
+[08:05:36][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_02" (7253 KB). Total audio cache: 119 MB
+[08:05:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_sandstorm_04" (5122 KB). Total audio cache: 114 MB
+[08:05:43][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_02" (5630 KB). Total audio cache: 108 MB
+[08:05:44][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_sandstorm_03" (4882 KB). Total audio cache: 104 MB
+[08:05:44][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "start_game_02" (1712 KB). Total audio cache: 105 MB
+[08:05:54][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "decisions_ui_button_01" (33 KB). Total audio cache: 105 MB
+[08:05:54][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "debug_dog_yelping_03" (564 KB). Total audio cache: 106 MB
+[08:05:58][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 100 MB
+[08:05:59][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_industry_01" (215 KB). Total audio cache: 100 MB
+[08:06:00][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_expand" (61 KB). Total audio cache: 100 MB
+[08:06:01][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_research" (441 KB). Total audio cache: 100 MB
+[08:06:05][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_engineering_01" (215 KB). Total audio cache: 101 MB
+[08:06:08][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_armor_01" (215 KB). Total audio cache: 101 MB
+[08:06:11][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "start_game_02" (1712 KB). Total audio cache: 99 MB
+[08:06:11][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "decisions_ui_button_01" (33 KB). Total audio cache: 99 MB
+[08:06:11][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "debug_dog_yelping_03" (564 KB). Total audio cache: 99 MB
+[08:06:11][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_02" (7253 KB). Total audio cache: 91 MB
+[08:06:16][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_industry_01" (215 KB). Total audio cache: 91 MB
+[08:06:16][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:19][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:22][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_engineering_01" (215 KB). Total audio cache: 91 MB
+[08:06:23][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_research" (441 KB). Total audio cache: 91 MB
+[08:06:24][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:25][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_armor_01" (215 KB). Total audio cache: 90 MB
+[08:06:26][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:27][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:30][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:31][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:48][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:50][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:06:57][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:07:04][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:07:05][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:07:10][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:07:13][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_research" (441 KB). Total audio cache: 91 MB
+[08:07:14][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_04" (5137 KB). Total audio cache: 86 MB
+[08:07:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_03" (3945 KB). Total audio cache: 90 MB
+[08:07:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-010" (430 KB). Total audio cache: 90 MB
+[08:07:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 95 MB
+[08:07:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 101 MB
+[08:07:16][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_province_01" (27 KB). Total audio cache: 101 MB
+[08:07:17][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_04" (5137 KB). Total audio cache: 106 MB
+[08:07:18][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "silence_buffer_1s" (172 KB). Total audio cache: 106 MB
+[08:07:18][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 112 MB
+[08:07:20][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-008" (430 KB). Total audio cache: 112 MB
+[08:07:20][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-009" (430 KB). Total audio cache: 112 MB
+[08:07:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-001" (430 KB). Total audio cache: 113 MB
+[08:07:22][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-006" (430 KB). Total audio cache: 113 MB
+[08:07:27][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "select_focus" (81 KB). Total audio cache: 113 MB
+[08:07:29][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-004" (430 KB). Total audio cache: 114 MB
+[08:07:30][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_research" (441 KB). Total audio cache: 113 MB
+[08:07:32][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-007" (430 KB). Total audio cache: 114 MB
+[08:07:32][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_04" (5168 KB). Total audio cache: 119 MB
+[08:07:33][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 113 MB
+[08:07:35][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_armor_02" (215 KB). Total audio cache: 113 MB
+[08:07:36][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-002" (430 KB). Total audio cache: 113 MB
+[08:07:37][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-008" (430 KB). Total audio cache: 113 MB
+[08:07:37][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-009" (430 KB). Total audio cache: 112 MB
+[08:07:38][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_air_03" (215 KB). Total audio cache: 113 MB
+[08:07:39][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_province_01" (27 KB). Total audio cache: 113 MB
+[08:07:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-006" (430 KB). Total audio cache: 112 MB
+[08:07:40][1936.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:07:40][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-006" (430 KB). Total audio cache: 113 MB
+[08:07:42][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-010" (430 KB). Total audio cache: 112 MB
+[08:07:42][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_02" (5168 KB). Total audio cache: 117 MB
+[08:07:43][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_engineering_02" (215 KB). Total audio cache: 117 MB
+[08:07:43][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-010" (430 KB). Total audio cache: 118 MB
+[08:07:44][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "select_focus" (81 KB). Total audio cache: 118 MB
+[08:07:45][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_research_tab_industry_01" (215 KB). Total audio cache: 118 MB
+[08:07:45][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-008" (430 KB). Total audio cache: 118 MB
+[08:07:46][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 113 MB
+[08:07:46][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-001" (430 KB). Total audio cache: 113 MB
+[08:07:46][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 108 MB
+[08:07:49][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-009" (430 KB). Total audio cache: 108 MB
+[08:07:49][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_research" (441 KB). Total audio cache: 109 MB
+[08:07:49][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_04" (5168 KB). Total audio cache: 104 MB
+[08:07:49][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_01" (5486 KB). Total audio cache: 109 MB
+[08:07:50][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 114 MB
+[08:07:50][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_04" (5168 KB). Total audio cache: 119 MB
+[08:07:50][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "click_province_01" (27 KB). Total audio cache: 119 MB
+[08:07:51][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 125 MB
+[08:07:52][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_armor_02" (215 KB). Total audio cache: 125 MB
+[08:07:53][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-004" (430 KB). Total audio cache: 125 MB
+[08:07:54][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_03" (8021 KB). Total audio cache: 117 MB
+[08:07:54][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 125 MB
+[08:07:57][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_rain_light_02" (12919 KB). Total audio cache: 112 MB
+[08:07:59][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_02" (7253 KB). Total audio cache: 119 MB
+[08:08:00][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_air_03" (215 KB). Total audio cache: 119 MB
+[08:08:00][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_engineering_02" (215 KB). Total audio cache: 119 MB
+[08:08:00][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-010" (430 KB). Total audio cache: 118 MB
+[08:08:02][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_rain_light_02" (12919 KB). Total audio cache: 131 MB
+[08:08:02][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_research_tab_industry_01" (215 KB). Total audio cache: 131 MB
+[08:08:02][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-008" (430 KB). Total audio cache: 130 MB
+[08:08:04][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_expand" (61 KB). Total audio cache: 130 MB
+[08:08:06][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-009" (430 KB). Total audio cache: 130 MB
+[08:08:06][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_research" (441 KB). Total audio cache: 129 MB
+[08:08:08][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-002" (430 KB). Total audio cache: 129 MB
+[08:08:10][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 134 MB
+[08:08:11][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-010" (430 KB). Total audio cache: 134 MB
+[08:08:11][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ambient_ocean_03" (3945 KB). Total audio cache: 131 MB
+[08:08:11][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "construction02" (192 KB). Total audio cache: 131 MB
+[08:08:12][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_04" (5168 KB). Total audio cache: 126 MB
+[08:08:12][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-007" (430 KB). Total audio cache: 125 MB
+[08:08:12][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 119 MB
+[08:08:12][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 114 MB
+[08:08:13][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_03" (3945 KB). Total audio cache: 118 MB
+[08:08:13][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "click_province_01" (27 KB). Total audio cache: 118 MB
+[08:08:13][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "construction01" (181 KB). Total audio cache: 118 MB
+[08:08:15][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_light_01" (6029 KB). Total audio cache: 112 MB
+[08:08:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_light_01" (6029 KB). Total audio cache: 118 MB
+[08:08:15][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_02" (5098 KB). Total audio cache: 123 MB
+[08:08:16][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-007" (430 KB). Total audio cache: 124 MB
+[08:08:20][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-008" (430 KB). Total audio cache: 124 MB
+[08:08:20][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "construction04" (192 KB). Total audio cache: 124 MB
+[08:08:21][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-001" (430 KB). Total audio cache: 125 MB
+[08:08:21][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 131 MB
+[08:08:23][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-009" (430 KB). Total audio cache: 131 MB
+[08:08:23][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_04" (5137 KB). Total audio cache: 126 MB
+[08:08:23][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_02" (7253 KB). Total audio cache: 119 MB
+[08:08:26][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-004" (430 KB). Total audio cache: 119 MB
+[08:08:27][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_03" (5168 KB). Total audio cache: 124 MB
+[08:08:27][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "construction03" (172 KB). Total audio cache: 125 MB
+[08:08:27][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ambient_ocean_01" (5486 KB). Total audio cache: 119 MB
+[08:08:27][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-006" (430 KB). Total audio cache: 119 MB
+[08:08:28][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-005" (430 KB). Total audio cache: 119 MB
+[08:08:28][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-010" (430 KB). Total audio cache: 119 MB
+[08:08:29][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "construction02" (192 KB). Total audio cache: 119 MB
+[08:08:30][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ambient_ocean_03" (3945 KB). Total audio cache: 115 MB
+[08:08:30][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-006" (430 KB). Total audio cache: 115 MB
+[08:08:31][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "construction01" (181 KB). Total audio cache: 115 MB
+[08:08:37][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 120 MB
+[08:08:37][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "construction04" (192 KB). Total audio cache: 120 MB
+[08:08:38][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-001" (430 KB). Total audio cache: 120 MB
+[08:08:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-009" (430 KB). Total audio cache: 119 MB
+[08:08:40][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_02" (5168 KB). Total audio cache: 114 MB
+[08:08:42][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ui_production_line_start_with_mio" (366 KB). Total audio cache: 114 MB
+[08:08:43][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-002" (430 KB). Total audio cache: 115 MB
+[08:08:44][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "construction03" (172 KB). Total audio cache: 115 MB
+[08:08:45][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_01" (5486 KB). Total audio cache: 120 MB
+[08:08:45][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ambient_ocean_02" (5098 KB). Total audio cache: 115 MB
+[08:08:45][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 110 MB
+[08:08:45][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-005" (430 KB). Total audio cache: 110 MB
+[08:08:45][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_03" (5168 KB). Total audio cache: 105 MB
+[08:08:46][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-001" (430 KB). Total audio cache: 105 MB
+[08:08:46][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_03" (5168 KB). Total audio cache: 110 MB
+[08:08:46][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 115 MB
+[08:08:47][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_04" (6287 KB). Total audio cache: 109 MB
+[08:08:47][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_02" (7253 KB). Total audio cache: 116 MB
+[08:08:47][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_thunder_03" (8021 KB). Total audio cache: 108 MB
+[08:08:52][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-008" (430 KB). Total audio cache: 108 MB
+[08:08:54][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 103 MB
+[08:08:55][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-006" (430 KB). Total audio cache: 102 MB
+[08:08:57][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_04" (5137 KB). Total audio cache: 107 MB
+[08:08:57][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_03" (8021 KB). Total audio cache: 115 MB
+[08:08:58][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_thunder_04" (6287 KB). Total audio cache: 121 MB
+[08:08:59][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 126 MB
+[08:08:59][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "ui_production_line_start_with_mio" (366 KB). Total audio cache: 126 MB
+[08:09:00][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-007" (430 KB). Total audio cache: 126 MB
+[08:09:00][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-002" (430 KB). Total audio cache: 125 MB
+[08:09:03][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-001" (430 KB). Total audio cache: 125 MB
+[08:09:03][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_03" (5168 KB). Total audio cache: 120 MB
+[08:09:03][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_01" (5168 KB). Total audio cache: 115 MB
+[08:09:04][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-007" (430 KB). Total audio cache: 115 MB
+[08:09:04][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-004" (430 KB). Total audio cache: 115 MB
+[08:09:04][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_02" (7253 KB). Total audio cache: 107 MB
+[08:09:12][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_02" (5168 KB). Total audio cache: 113 MB
+[08:09:13][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-005" (430 KB). Total audio cache: 113 MB
+[08:09:14][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "weather_snow_blizzard_04" (5137 KB). Total audio cache: 108 MB
+[08:09:16][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 103 MB
+[08:09:21][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-007" (430 KB). Total audio cache: 102 MB
+[08:09:23][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-001" (430 KB). Total audio cache: 103 MB
+[08:09:30][1936.01.01.12][pdx_audiosound_sdl.cpp:32]: Audio evicted "train_horn_medium-005" (430 KB). Total audio cache: 102 MB
+[08:09:31][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_05" (5168 KB). Total audio cache: 108 MB
+[08:09:32][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "free_factories_alert" (300 KB). Total audio cache: 108 MB
+[08:09:34][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-003" (430 KB). Total audio cache: 108 MB
+[08:09:39][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "time_up_01" (18 KB). Total audio cache: 108 MB
+[08:09:39][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-009" (430 KB). Total audio cache: 109 MB
+[08:09:40][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-006" (430 KB). Total audio cache: 109 MB
+[08:09:40][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "ambient_ocean_02" (5098 KB). Total audio cache: 114 MB
+[08:09:41][1936.01.01.12][pdx_audiosound_sdl.cpp:164]: Audio cached "pause_button_01" (8 KB). Total audio cache: 114 MB
+[08:09:45][1936.01.05.08][pdx_audiosound_sdl.cpp:164]: Audio cached "select_new_alert" (222 KB). Total audio cache: 114 MB
+[08:09:46][1936.01.05.08][pdx_audiosound_sdl.cpp:164]: Audio cached "GEN_train_equipment_1_04" (5168 KB). Total audio cache: 119 MB
+[08:09:48][1936.01.08.01][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-002" (430 KB). Total audio cache: 120 MB
+[08:09:51][1936.01.11.06][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-005" (430 KB). Total audio cache: 120 MB
+[08:09:53][1936.01.14.04][pdx_audiosound_sdl.cpp:164]: Audio cached "train_horn_medium-010" (430 KB). Total audio cache: 121 MB
+[08:09:53][1936.01.14.18][pdx_audiosound_sdl.cpp:32]: Audio evicted "ambient_ocean_01" (5486 KB). Total audio cache: 115 MB
+[08:09:54][1936.01.14.19][pdx_audiosound_sdl.cpp:164]: Audio cached "weather_snow_blizzard_04" (5137 KB). Total audio cache: 120 MB
+[08:25:24][1937.04.10.01][graphicssettings.cpp:747]: Using multisampling: 4
+[08:25:30][1937.04.10.01][graphicssettings.cpp:747]: Using multisampling: 4
+[08:26:02][1937.04.21.13][graphicssettings.cpp:747]: Using multisampling: 4
+[08:26:02][1937.04.21.13][graphicssettings.cpp:747]: Using multisampling: 4
+[08:26:45][1937.05.06.12][graphicssettings.cpp:747]: Using multisampling: 4
+[08:30:05][1937.07.31.01][graphicssettings.cpp:747]: Using multisampling: 4
+[08:31:29][1937.08.29.11][graphicssettings.cpp:747]: Using multisampling: 4
+[08:32:08][1937.09.01.03][graphicssettings.cpp:747]: Using multisampling: 4
+[08:32:08][1937.09.01.03][graphicssettings.cpp:747]: Using multisampling: 4
+[08:51:16][1938.08.06.24][graphicssettings.cpp:747]: Using multisampling: 4

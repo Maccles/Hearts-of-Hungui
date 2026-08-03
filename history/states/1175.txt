@@ -4,7 +4,7 @@ state={
 	name="STATE_1175"
 	manpower = 1224549
 	
-	state_category = pastoral
+	state_category = town
 	#impassable = yes
 	resources={
 		aluminium=0
@@ -17,7 +17,7 @@ state={
 	}
 
 	history={
-		victory_points = { 10160 1}
+		owner = DEI
 		victory_points = { 10162 1}
 		
 		buildings = {
@@ -27,14 +27,14 @@ state={
 			industrial_complex = 0
 			
 			10162 = {
-				naval_base = 1
+				naval_base = 4
 			}
 			
 		}
-}
+	}
 
-	provinces={
-		10159 10160 10161 10162 10163 
+	provinces = {
+		10161 10162 10163 14764 14765 14767 14771
 	}
 	local_supplies=0.0 
 }

@@ -1,4 +1,3 @@
-capital = 10417
 
 oob = "DIL_1936"
 if = {

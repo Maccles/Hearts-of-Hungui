@@ -9,7 +9,10 @@ state = {
 		owner = PTR
 		add_core_of = PTR
 		buildings = {
-			infrastructure = 1
+			infrastructure = 1
+			14733 = {
+				naval_base = 1
+			}
 		}
 	}
 	

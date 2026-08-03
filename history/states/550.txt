@@ -27,10 +27,6 @@ state={
 			arms_factory = 0
 			industrial_complex = 0
 			
-			5055 = {
-				naval_base = 1
-			}
-			
 		}
 }
 

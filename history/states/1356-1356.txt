@@ -9,7 +9,10 @@ state = {
 		owner = PTR
 		add_core_of = PTR
 		buildings = {
-			infrastructure = 3
+			infrastructure = 3
+			5055 = {
+				naval_base = 1
+			}
 		}
 		victory_points = { 5055 1 }
 	}

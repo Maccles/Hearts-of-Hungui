@@ -19,7 +19,6 @@ state={
 	history={
 		owner = PTR
 		add_core_of = PTR
-		victory_points = { 5112 4}
 		
 		buildings = {
 			infrastructure = 3
@@ -27,15 +26,11 @@ state={
 			arms_factory = 0
 			industrial_complex = 1
 			
-			5115 = {
-				naval_base = 1
-			}
-			
 		}
 }
 
 	provinces = {
-		5112 5113 5114
+		 5113 5114
 	}
 	local_supplies=0.0 
 }

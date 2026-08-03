@@ -1,0 +1,14 @@
+Collected: 2026-08-03 15:17:57 +01:00
+HOI4 folder: C:\Users\maccl\Documents\Paradox Interactive\Hearts of Iron IV
+Latest crash: C:\Users\maccl\Documents\Paradox Interactive\Hearts of Iron IV\crashes\hoi4_20260726_143250
+
+Included files:
+- error.log (244780 bytes)
+- exception.txt (1330 bytes)
+- game.log (10670 bytes)
+- memory.log (10187 bytes)
+- meta.yml (826 bytes)
+- minidump.dmp (46943433 bytes)
+- setup.log (298779 bytes)
+- system.log (48178 bytes)
+- text.log (101574 bytes)

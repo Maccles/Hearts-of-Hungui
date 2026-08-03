@@ -1,0 +1,2 @@
+# Intentionally empty: vanilla faction theaters reference strategic regions
+# that do not exist on the Hungui total-conversion map.

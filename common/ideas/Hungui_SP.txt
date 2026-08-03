@@ -7,7 +7,7 @@ ideas = {
 		HCR_Legacy_PlanXZ = {
 			picture = GFX_idea_TAG_my_spirit
 			allowed = {
-				original_tag = HCR
+				original_tag = HRF
 			}
 			modifier = {
 				monthly_population = -0.5
@@ -19,7 +19,7 @@ ideas = {
 		HCR_Hungui_Scapegoating = {
 			picture = GFX_idea_TAG_my_spirit
 			allowed = {
-				original_tag = HCR
+				original_tag = HRF
 			}
 			modifier = {
 				war_support_factor = -5.0

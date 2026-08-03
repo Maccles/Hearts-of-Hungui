@@ -1,6 +1,5 @@
 ideologies = {
 
-//NEW CONTENT//
 
 	melonist = {
 	
@@ -52,8 +51,9 @@ ideologies = {
 		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
 			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
 		}
-		ai_<ideology> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+		ai_neutral = yes # Uses the neutral AI behaviour.
 	}
+
 
 	abyssist = {
 	
@@ -67,7 +67,7 @@ ideologies = {
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_MELONIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
+			"FACTION_NAME_ABYSSIST_1" # Faction names used by the ai when an ai with this ideology creates a faction. Can be defined in any localisation file.
 		}
 		
 		color = { 91 128 193 } # RGB ideology colour, used in the political pie chart or next to the chart. Can be overwritten in a subideology.
@@ -105,8 +105,9 @@ ideologies = {
 		faction_modifiers = {    # Applies to the entire faction if the faction leader has this ideology. Every country [[Modifiers|modifier]] can apply.
 			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
 		}
-		ai_<ideology> = yes # Determines what ai this ideology will use (democratic, communism, fascism, neutral)
+		ai_neutral = yes # Uses the neutral AI behaviour.
 	}
+
 
 	democratic = {
 

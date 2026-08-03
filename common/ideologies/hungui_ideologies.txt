@@ -1,0 +1,2 @@
+# Custom ideologies are defined in 00_ideologies.txt.
+# This compatibility file intentionally defines no duplicate ideology keys.

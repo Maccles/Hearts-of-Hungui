@@ -1,0 +1,28 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Operation Postern v1.19.2.0.a729 
+SCMBranch: HEAD 
+SCMCommit: a729d47bd1c55457e6886b6eeb2fcdef4ac05057 
+SCMTimeStamp: "2026-06-29 15:17:03 +0200" 
+DateTime: "2026-07-26 14:32:50 +0100" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 10 x86_64 
+SystemLanguage: en 
+CPUModel: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz 
+CPUSpeed: 0 
+CPUPhysicalCores: 6 
+CPULogicalCores: 12 
+SystemMemory: 32616 
+LaunchArguments: --debug --gdpr-compliant --paradox-account-userid="" --pdx-launcher-session-token="" 
+
+# Application Specific Data 
+IsLiveBuild: true 
+IsMapInGoodState: no 
+debug: 1 
+DataChecksum: 32d3aabdee67d17b77c966084945d00e
+AppChecksum: d41d8cd98f00b204e9800998ecf8427e
+HasMods: true
+Mods: test
+IsOldSave: false

@@ -8,6 +8,7 @@ state = {
 	history = {
 		owner = PTR
 		add_core_of = PTR
+		victory_points = { 5112 4 }
 		buildings = {
 			infrastructure = 3
 		}
@@ -17,6 +18,6 @@ state = {
 	buildings_max_level_factor = 1.000
 	
 	provinces = {
-		14729 5111 14732
+		14729 5111 14732 5112
 	}
 }

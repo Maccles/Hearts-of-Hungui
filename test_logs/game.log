@@ -1,0 +1,102 @@
+[08:03:11][no_game_date][defines.cpp:270]: 4469 defines loaded
+[08:03:50][no_game_date][gamestate.cpp:2841]: Loaded 13535 provinces.
+[08:04:00][no_game_date][gameapplication.cpp:2969]: Resetting game
+[08:04:04][1936.01.01.12][history.cpp:165]: Executing History from -1.1.1.1 to  2.1.1.1
+[08:04:05][1936.01.01.12][history.cpp:165]: Executing History from 2.1.1.1 to  1936.1.1.12
+[08:05:44][1936.01.01.12][frontend.cpp:682]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1936.1.1.12
+
+[08:05:49][1936.01.01.12][ingameidler.cpp:5175]: Start RestoreDeviceObjects
+[08:05:54][1936.01.01.12][ingameidler.cpp:5325]: End RestoreDeviceObjects
+[08:05:54][1936.01.01.12][effectbase.cpp:1783]: Something went wrong with the Conflict Risk stuff
+[08:05:54][1936.01.01.12][effectbase.cpp:1799]: [08:05:54][1936.01.01.12][effectbase.cpp:1783]: AUS calculating divisions
+[08:05:54][1936.01.01.12][effectbase.cpp:1799]: [08:09:42][1936.01.02.05][effectbase.cpp:1783]: planes triggered
+[08:09:42][1936.01.02.05][effectbase.cpp:1799]: [08:10:04][1936.01.23.17][effectbase.cpp:1783]: Fully cantons activated
+[08:11:22][1936.02.28.14][effectbase.cpp:1783]: random event 1
+[08:12:06][1936.04.11.21][effectbase.cpp:1783]: Very cantons activated
+[08:14:13][1936.05.06.20][effectbase.cpp:1783]:  20:00, 6 May, 1936: Kingdom of Belgium: Decision dockyard_xp
+[08:15:41][1936.07.11.17][effectbase.cpp:1783]: AUS calculating divisions
+[08:21:45][1936.11.18.01][effectbase.cpp:1783]: AUS calculating divisions
+[08:24:04][1937.02.23.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:24:04][1937.02.23.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:24:04][1937.02.23.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 10 SumSoFar=90
+[08:24:04][1937.02.23.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=100.0000
+[08:24:04][1937.02.23.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=69.8810
+[08:24:04][1937.02.23.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:24:11][1937.03.02.07][effectbase.cpp:1783]:  7:00, 2 March, 1937: British Raj: Decision RAJ_provincial_election_countdown
+[08:24:41][1937.03.28.21][effectbase.cpp:1783]: Fully cantons activated
+[08:24:42][1937.03.29.23][effectbase.cpp:1783]:  23:00, 29 March, 1937: British Raj: Decision raj_placate_the_muslim_opposition
+[08:24:59][1937.04.02.02][effectbase.cpp:1783]: Very cantons activated
+[08:26:35][1937.05.02.21][effectbase.cpp:1783]: Fully cantons activated
+[08:26:36][1937.05.03.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:26:36][1937.05.03.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:26:36][1937.05.03.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 0 SumSoFar=90
+[08:26:36][1937.05.03.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=90.0000
+[08:26:36][1937.05.03.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=29.0466
+[08:26:36][1937.05.03.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:26:38][1937.05.05.10][effectbase.cpp:1783]:  10:00, 5 May, 1937: British Raj: Decision finalize_the_vote
+[08:28:01][1937.06.10.21][effectbase.cpp:1783]:  21:00, 10 June, 1937: British Raj: Decision raj_placate_the_muslim_opposition
+[08:30:21][1937.08.10.06][effectbase.cpp:1783]:  6:00, 10 August, 1937: Kingdom of Belgium: Decision get_generic_SS_template
+[08:31:03][1937.08.18.15][effectbase.cpp:1783]:  15:00, 18 August, 1937: British Raj: Decision finalize_the_vote
+[08:35:02][1937.09.15.01][effectbase.cpp:1783]: AUS calculating divisions
+[08:35:02][1937.09.15.01][effectbase.cpp:1783]: AUS calculating divisions
+[08:36:01][1937.10.08.08][effectbase.cpp:1783]:  8:00, 8 October, 1937: Kingdom of Belgium: Decision remove get_generic_SS_template
+[08:37:13][1937.11.02.16][effectbase.cpp:1783]:  16:00, 2 November, 1937: British Raj: Decision raj_placate_the_muslim_opposition
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Mikhail Tukhachevsky I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am August Kork I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Robert Eidemann I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Boris Feldman I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Aleksandr Yegorov I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Vasily Blyukher I am in the Event!
+[08:38:25][1937.12.01.01][effectbase.cpp:1783]: Hey I am Vitaly Primakov I am in the Event!
+[08:39:34][1938.01.02.21][effectbase.cpp:1783]: Very cantons activated
+[08:39:36][1938.01.05.05][effectbase.cpp:1783]:  5:00, 5 January, 1938: British Raj: Decision finalize_the_vote
+[08:41:26][1938.01.19.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:41:26][1938.01.19.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:41:26][1938.01.19.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 0 SumSoFar=90
+[08:41:26][1938.01.19.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=90.0000
+[08:41:26][1938.01.19.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=28.6596
+[08:41:26][1938.01.19.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:41:29][1938.01.22.01][effectbase.cpp:1783]: Fully cantons activated
+[08:41:43][1938.02.04.17][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:43:23][1938.03.24.03][effectbase.cpp:1783]: AUS calculating divisions
+[08:46:32][1938.05.15.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:46:32][1938.05.15.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:46:32][1938.05.15.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 10 SumSoFar=90
+[08:46:32][1938.05.15.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=100.0000
+[08:46:32][1938.05.15.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=0.9500
+[08:46:32][1938.05.15.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:46:35][1938.05.18.13][effectbase.cpp:1783]:  13:00, 18 May, 1938: British Raj: Decision raj_reintegrate_the_western_frontier
+[08:46:40][1938.05.23.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:46:40][1938.05.23.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:46:40][1938.05.23.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 10 SumSoFar=90
+[08:46:40][1938.05.23.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=100.0000
+[08:46:40][1938.05.23.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=3.4750
+[08:46:40][1938.05.23.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:49:11][1938.06.27.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:49:11][1938.06.27.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:49:11][1938.06.27.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 10 SumSoFar=90
+[08:49:11][1938.06.27.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=100.0000
+[08:49:11][1938.06.27.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=8.2510
+[08:49:11][1938.06.27.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:49:13][1938.06.30.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:49:13][1938.06.30.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:49:13][1938.06.30.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 0 SumSoFar=90
+[08:49:13][1938.06.30.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=90.0000
+[08:49:13][1938.06.30.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=35.0334
+[08:49:13][1938.06.30.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:51:19][1938.08.07.01][effectbase.cpp:1532]: common/on_actions/05_lar_on_actions.txt:110: random_list: Enumerating effects:
+[08:51:19][1938.08.07.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:112: 90 SumSoFar=0
+[08:51:19][1938.08.07.01][effectbase.cpp:1552]: common/on_actions/05_lar_on_actions.txt:118: 10 SumSoFar=90
+[08:51:19][1938.08.07.01][effectbase.cpp:1554]: common/on_actions/05_lar_on_actions.txt:110: random_list: Total=100.0000
+[08:51:19][1938.08.07.01][effectbase.cpp:1580]: common/on_actions/05_lar_on_actions.txt:110: random_list: Rolled=54.8500
+[08:51:19][1938.08.07.01][effectbase.cpp:1722]: common/on_actions/05_lar_on_actions.txt:110: random_list: Executing=common/on_actions/05_lar_on_actions.txt:112
+[08:51:24][1938.08.12.24][effectbase.cpp:1783]:  24:00, 12 August, 1938: British Raj: Decision raj_placate_the_muslim_opposition
+[08:52:21][1938.08.24.11][effectbase.cpp:1783]:  11:00, 24 August, 1938: British Raj: Decision finalize_the_vote

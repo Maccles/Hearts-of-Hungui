@@ -1,0 +1,22 @@
+state = {
+	id = 1371
+	name = "STATE_1371"
+	manpower = 7435
+	
+	state_category = rural
+	
+	history = {
+		owner = DEI
+		add_core_of = DEI
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	local_supplies = 0.0
+	buildings_max_level_factor = 1.000
+	
+	provinces = {
+		14777 14795 14778 14796 14779 14784 14797
+	}
+}
